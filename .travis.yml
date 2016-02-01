@@ -1,0 +1,8 @@
+language: ruby
+rvm:
+  - 2.3.0
+notifications:
+  slack:
+    rooms:
+      - best-in-breed:mcEkqlJwLY1jlfsRTarSxzIv#general
+      - best-in-breed:mcEkqlJwLY1jlfsRTarSxzIv#random
